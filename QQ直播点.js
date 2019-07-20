@@ -1,0 +1,13 @@
+auto();
+while(true){
+    click(444,962);//x,y是坐标
+    sleep(100);
+    click(602,777);//x,y是坐标
+    sleep(100);
+    click(676,800);//x,y是坐标
+    sleep(10);
+    click(696,1009);//x,y是坐标
+    sleep(100);
+    click(769,1052);//x,y是坐标
+    sleep(100);
+    }
